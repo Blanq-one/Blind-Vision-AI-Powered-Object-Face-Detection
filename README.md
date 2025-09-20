@@ -1,4 +1,5 @@
 Object Detection for the Blind
+
 📌 About the Project
 
 The goal of this project is to create a vision-assistive tool for blind and visually impaired users. The system uses Haarcascade classifiers to detect faces and bodies in real-time and provides directional audio feedback to guide the user.
